@@ -1,0 +1,35 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19043)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252 
+[2] LC_CTYPE=English_United Kingdom.1252   
+[3] LC_MONETARY=English_United Kingdom.1252
+[4] LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] ggplot2_3.3.3
+
+loaded via a namespace (and not attached):
+ [1] Rcpp_1.0.7        pillar_1.6.4      compiler_4.0.3    plyr_1.8.6       
+ [5] prettyunits_1.1.1 progress_1.2.2    tools_4.0.3       digest_0.6.26    
+ [9] evaluate_0.14     jsonlite_1.7.2    lifecycle_1.0.1   tibble_3.1.6     
+[13] gtable_0.3.0      nlme_3.1-149      lattice_0.20-41   mgcv_1.8-33      
+[17] pkgconfig_2.0.3   rlang_0.4.10      Matrix_1.2-18     DBI_1.1.0        
+[21] cli_3.1.0         rstudioapi_0.13   yaml_2.2.1        parallel_4.0.3   
+[25] xfun_0.18         withr_2.4.2       knitr_1.30        dplyr_1.0.7      
+[29] httr_1.4.2        hms_1.1.1         generics_0.0.2    vctrs_0.3.8      
+[33] grid_4.0.3        tidyselect_1.1.0  cowplot_1.1.1     glue_1.6.1       
+[37] R6_2.4.1          fansi_0.4.1       rentrez_1.2.3     XML_3.99-0.8     
+[41] rmarkdown_2.5     farver_2.0.3      purrr_0.3.4       magrittr_2.0.1   
+[45] splines_4.0.3     htmltools_0.5.1.1 scales_1.1.1      ggridges_0.5.3   
+[49] ellipsis_0.3.2    assertthat_0.2.1  colorspace_1.4-1  ape_5.5          
+[53] labeling_0.4.2    utf8_1.1.4        tinytex_0.26      rncl_0.8.4       
+[57] munsell_0.5.0     rotl_3.0.12       crayon_1.4.2     
